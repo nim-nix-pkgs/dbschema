@@ -11,7 +11,6 @@
   inputs.src-dbschema-master.ref   = "refs/heads/master";
   inputs.src-dbschema-master.owner = "vegansk";
   inputs.src-dbschema-master.repo  = "dbschema";
-  inputs.src-dbschema-master.dir   = "";
   inputs.src-dbschema-master.type  = "github";
   
   inputs."nimboost".owner = "nim-nix-pkgs";

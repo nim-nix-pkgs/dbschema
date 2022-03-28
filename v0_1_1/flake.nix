@@ -11,7 +11,6 @@
   inputs.src-dbschema-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-dbschema-v0_1_1.owner = "vegansk";
   inputs.src-dbschema-v0_1_1.repo  = "dbschema";
-  inputs.src-dbschema-v0_1_1.dir   = "";
   inputs.src-dbschema-v0_1_1.type  = "github";
   
   inputs."nimboost".owner = "nim-nix-pkgs";
