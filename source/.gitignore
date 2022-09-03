@@ -1,0 +1,6 @@
+nimcache
+bin
+build
+*.log
+.#*.*
+/build.cfg
